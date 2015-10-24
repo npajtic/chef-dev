@@ -1,0 +1,7 @@
+name 'npajtic-monitoring'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures npajtic-monitoring'
+long_description 'Installs/Configures npajtic-monitoring'
+version '0.1.0'
